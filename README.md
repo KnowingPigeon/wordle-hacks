@@ -5,7 +5,7 @@ A project made with Aiden Kreeger in December 2021 to find sets of 5 words that 
 ## Important notes
 
 ### Disclaimer
-This project was created several years ago without the intention of later publishing. Poor documentation and portability errors are to be expected unless I decide to revisit this project later.
+This project was created several years ago without the intention of later publishing. Poor documentation and portability errors are to be expected unless I decide to revisit this project later. Some bin files are too large and are not included in this repo.
 
 ### Another disclaimer
 At the time of creation, the New York Times had not yet acquired Wordle. The Times significantly shrunk the accepted words list, meaning this project is only relevant to Wordle clones that use the original word list. This comes down to the words "waqfs" and "vozhd" which are present in every set of 5 but were removed due to obscurity. In case you're wondering, a waqf is a charitable endowment made to a place of education in Muslim culture, and a vozhd is a Russian supreme leader.
